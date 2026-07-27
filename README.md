@@ -3,7 +3,7 @@
 My first self-built front-end project — built entirely from scratch without a tutorial.
 
 ## Live Demo
-🔗 [View Live](https://kulshreshth-singh.github.io/Flipkart-Clone/)
+🔗 [View Live](https://kulshreshth-singh.github.io/flipkart-ui-clone/)
 
 ## What I built
 - Responsive navbar with logo, search bar, login, cart
